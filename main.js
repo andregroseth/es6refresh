@@ -163,5 +163,3 @@ class Customer extends Person {
 const customer1 = new Customer('Kevin', 32, 300)
 
 console.log(customer1);
-
-// MODULES
